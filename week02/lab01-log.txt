@@ -1,0 +1,160 @@
+    1  java -version
+    2  cd /Library/Java/JavaVirtualMachines
+    3  java -version
+    4  sudo killal -INFO mDNSResponder
+    5  python --version
+    6  python --version
+    7  python3 --version
+    8  python3 --version
+    9  xcode-select--install
+   10  xcode-select --install
+   11  --install
+   12  xcode-select --install
+   13  clang --version
+   14  /Users/arihantmaity/Downloads/C/lec1
+   15  /Users/arihantmaity/Downloads/C/lec1
+   16  /Users/arihantmaity/Downloads/C/lec1
+   17  /Users/arihantmaity/Downloads/c/hi
+   18  /Users/arihantmaity/Downloads/c/hi
+   19  /Users/arihantmaity/Downloads/c/hi
+   20  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Q1"
+   21  /Users/arihantmaity/Documents/Arihant\ Maity/Plaksha/Year\ 1/Sem1/Computational\ Thinking/C/Q1 ; exit;
+   22  /Users/arihantmaity/Documents/Arihant\ Maity/Plaksha/Year\ 1/Sem1/Computational\ Thinking/C/Assignment1/Q1/Q1 ; exit;
+   23  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment1/Q2/Q2"
+   24  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment1/Q2/Q2"
+   25  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment1/Q2/Q2"
+   26  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment1/Q2/Q2"
+   27  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment1/Q1/Q1"
+   28  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment1/Q1/Q1"
+   29  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment1/Q1/Q1"
+   30  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment1/Q1/Q1"
+   31  python3 --version
+   32  python g.py
+   33   /usr/bin/env /usr/local/bin/python3 /Users/arihantmaity/.vscode/extensions/ms-python.debugpy-2026.6.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 50684 -- /Users/arihantmaity/Documents/hi.py 
+   34  python3 hi.py
+   35  /Users/arihantmaity/Documents/Arihant\ Maity/Plaksha/Year\ 1/Sem1/Computational\ Thinking/C/Assignment1/Q2/Q2 ; exit;
+   36  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q1"
+   37  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q1"
+   38  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q1"
+   39  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment1/Q2/Q2"
+   40  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q1"
+   41  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q1"
+   42  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q1"
+   43  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q1"
+   44  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q1"
+   45  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment1/Q2/Q2"
+   46  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q2/Q2"
+   47  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q2/Q2"
+   48  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q2/Q2"
+   49  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q4/Q4"
+   50  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q4/Q4"
+   51  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q3/Q3"
+   52  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q3/Q3"
+   53  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/C/Assignment 2/Q3/Q3"
+   54  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/L4Q1"
+   55  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/L4Q5"
+   56  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/L4Q2"
+   57  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/L4Q6_2"
+   58  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/L4Q9"
+   59  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/L4Q6"
+   60  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/L4Q10"
+   61  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/L4Q10"
+   62  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/L4Q10"
+   63  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/L4Q8"
+   64  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/L4Q7"
+   65  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/L4Q7"
+   66  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/L4Q5"
+   67  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/Conditional/L3Q2"
+   68  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/Conditional/L3Q2"
+   69  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/Conditional/L3Q2"
+   70  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/Conditional/L3Q2"
+   71  "/Users/arihantmaity/Documents/Arihant Maity/Plaksha/Year 1/Sem1/Computational Thinking/Practice/Conditional/L3Q3"
+   72  python3 --version
+   73  pip3 install notebook
+   74  jupyter notebook
+   75  pip install notebook
+   76  pip install notebook
+   77  pip install notebook
+   78  jupyter notebook
+   79  pwd
+   80  ls
+   81  ls -a
+   82  ls -l
+   83  cd
+   84  cd Documents
+   85  cd Arihant Maity
+   86  ls
+   87  cd Arihant Maity
+   88  cd ArihantMaity
+   89  cd Arihant Maity
+   90  cd "Arihant Maity"
+   91  cd ls
+   92  ls
+   93  cd Plaksha
+   94  cd "Year 1"
+   95  cd Sem1
+   96  mkdir coding-cafe
+   97  cd coding-cafe
+   98  mkdir week01
+   99  mkdir week02
+  100  cd week02
+  101  touch notes.md
+  102  cd ..
+  103  pwd
+  104  touch README.md
+  105  ls coding-cafe/week02
+  106  pwd
+  107  ls coding-cafe/week02
+  108  cd ..
+  109  ls coding cafe/week02
+  110  ls coding-cafe/week02
+  111  ls -R coding-cafe
+  112  pwd
+  113  cd coding-cafe
+  114  cp README.md README-backup.md
+  115  mv README-backup.md week01/
+  116  cd week01
+  117  mv README-backup.md old-readme.md
+  118  ls
+  119  rm old-readme.md
+  120  ls
+  121  echo $PATH
+  122  which python3
+  123  which pip
+  124  which ls
+  125  python3 -m ensurepip --upgrade
+  126  which pip
+  127  pip3 --version
+  128  which pip
+  129  pip3 install --upgrade pip
+  130  which pip
+  131  pyton3
+  132  cd ..
+  133  python3 -m venv .venv
+  134  ls
+  135  ls -a
+  136  source .venv/bin/activate
+  137  which python3
+  138  pip list
+  139  pip install requests
+  140  pip list
+  141  deactivate
+  142  which python3
+  143  man ls
+  144  man man
+  145  cd ..
+  146  cd coding-cafe/README.md
+  147  cd coding-cafe
+  148  history
+  149  python3
+  150  python3
+  151  python3
+  152  history > week02/lab01-log.txt
+  153  echo $HISTSIZE
+  154  echo $HISTFILESIZE
+  155  echo $HISTFILESIZE
+  156  export HISTFILESIZE=2000
+  157  echo $HISTFILESIZE
+  158  history > week02/lab01-log.txt
+  159  history > week02/lab01-log.txt
+  160  wc -l week02/lab01-log.txt
